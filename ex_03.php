@@ -11,7 +11,8 @@ return "Seu cpf é : *******" . $ultimosdigitos;
 
 }
 
-    echo mascararCpf("123.456.789-10");
+    $cpf = '123.456.789-10';
+    echo mascararCpf($cpf);
 
 
 
