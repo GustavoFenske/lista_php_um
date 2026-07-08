@@ -1,12 +1,15 @@
 <?php
 
-function analisarProdutos(){
+function analisarProdutos($listaProdutos){
 
 
 }
 
 
+$listaProdutos = [
 
+
+];
 
 
 
